@@ -1,0 +1,7 @@
+﻿  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Антоха\Desktop\УЧЁБА\3 семестр\KYPCACH\kursach\kursach\iconka.h(11): warning C4715: Icon: значение возвращается не при всех путях выполнения
+C:\Users\Антоха\Desktop\УЧЁБА\3 семестр\KYPCACH\kursach\kursach\StartGame.h(597): warning C4715: gameRunning: значение возвращается не при всех путях выполнения
+  All 191 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  kursach.vcxproj -> C:\Users\Антоха\Desktop\УЧЁБА\3 семестр\KYPCACH\kursach\x64\Release\kursach.exe
